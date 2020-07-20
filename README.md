@@ -1,2 +1,5 @@
 # hello-world
-Leo's very first repository on Github.
+
+Hi Leo,
+
+Thanks for starting your first Github line on 2020-07-19, typed from Seattle. 
